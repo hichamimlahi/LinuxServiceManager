@@ -4,7 +4,7 @@
 
 The Linux Service Manager is a Qt-based application designed to provide a user-friendly interface for managing system services on a Linux operating system. This project allows users to easily interact with systemd, providing capabilities to list, control, and inspect services.
 
-A detailed report on the project is available in the [rapport_projet.pdf](rapport_projet.pdf) file within this repository.
+A detailed report on the project is available in the [rapport_projet.pdf](rapport_projet.pdf) file within this repository, and also on [Google Drive](https://drive.google.com/file/d/1u9P7GXWG5byRqh-ZCVEvPPU4lOXXKphF/view?usp=sharing).
 
 ## Introduction
 
@@ -109,3 +109,4 @@ All tests were successful, demonstrating the application's reliability in listin
 This project successfully delivered a user-friendly and efficient application for managing Linux services. It empowers system administrators and developers with a valuable tool to control and monitor services effectively.
 
 For more details, a presentation video is available on [YouTube](https://youtu.be/uo0hi0SMrHg?si=FiZpykZZuh8WWxAj).
+
