@@ -1,15 +1,14 @@
 # Linux Service Manager
 
-[![GitHub Repository](https://img.shields.io/github/stars/hichamimlahi/LinuxServiceManager?style=social)](https://github.com/hichamimlahi/LinuxServiceManager)
-[![YouTube Presentation](https://img.shields.io/youtube/channel/UCxxxxxxxxxxx?style=social)](https://youtu.be/uo0hi0SMrHg?si=FiZpykZZuh8WWxAj)
+[![YouTube Presentation](https://img.shields.io/badge/Video_Presentation-red?style=social&logo=youtube)](https://youtu.be/uo0hi0SMrHg?si=FiZpykZZuh8WWxAj)
 
 The Linux Service Manager is a Qt-based application designed to provide a user-friendly interface for managing system services on a Linux operating system. This project allows users to easily interact with systemd, providing capabilities to list, control, and inspect services.
 
-A detailed report on the project is available in the [rapport (3).pdf](rapport (3).pdf) file.
+A detailed report on the project is available in the [rapport_projet.pdf](rapport_projet.pdf) file within this repository.
 
 ## Introduction
 
-The Linux Service Manager simplifies the administration of Linux services by offering a graphical interface to perform common tasks.
+The Linux Service Manager simplifies the administration of Linux services by offering a graphical interface for common tasks.
 
 ### Objective
 
@@ -19,14 +18,7 @@ This application provides the following core functionalities:
 * Controlling service states: starting, stopping, and restarting.
 * Viewing service logs for troubleshooting and monitoring.
 
-The source code for this project is available on [GitHub](https://github.com/hichamimlahi/LinuxServiceManager), and a demonstration video can be found on [YouTube](https://youtu.be/uo0hi0SMrHg?si=FiZpykZZuh8WWxAj).
-
-### Target Audience
-
-This application is primarily aimed at:
-
-* System administrators who need an efficient way to manage services.
-* Developers who require a tool to monitor and control services during development and testing.
+A presentation video of the project is available on [YouTube](https://youtu.be/uo0hi0SMrHg?si=FiZpykZZuh8WWxAj).
 
 ## Features
 
@@ -116,4 +108,4 @@ All tests were successful, demonstrating the application's reliability in listin
 
 This project successfully delivered a user-friendly and efficient application for managing Linux services. It empowers system administrators and developers with a valuable tool to control and monitor services effectively.
 
-For more details, please refer to the [GitHub repository](https://github.com/hichamimlahi/LinuxServiceManager) and the [YouTube presentation](https://youtu.be/uo0hi0SMrHg?si=FiZpykZZuh8WWxAj).
+For more details, a presentation video is available on [YouTube](https://youtu.be/uo0hi0SMrHg?si=FiZpykZZuh8WWxAj).
